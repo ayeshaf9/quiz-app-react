@@ -11,7 +11,7 @@ const Instructions = () => (
            <h1>How to play</h1>
            <p>Read the instructions before starting the quiz:</p>
            <ul className="browser-default" id="main-list">
-              <li>The quiz has a duration of 10 minutes.</li>
+              <li>The quiz has a duration of 3 minutes.</li>
               <li>The timer starts when the quiz starts and the quiz ends as the timer reaches 00:00.</li>
               <li>The quiz consists of 10 questions.</li>
               <li>Every question has 4 options to choose from.</li>

@@ -32,3 +32,12 @@ section{
     font-size: $xxl;
     color: greenyellow;
 }
+
+@media(max-width: 770px){
+  
+    .container {
+        padding: 0 $normal;
+        width: 100%;
+        height: 100%;
+    }
+}

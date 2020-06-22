@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    width: 50%;
+    height: 40%;
+    margin-top: 5%;
+    background-color: rgba($color: #9c9c9c, $alpha: 0.1);
+    padding: $med;
+    border-radius: $button-radius;
+
+    h2{
+        color: slateblue;
+    }
+    
+    h4{
+        color: $grey;
+    }
+    
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+section{
+ justify-content: space-between;
+ padding-left: $xxl;
+ padding-right: $xxl;
+}
+
+.success{
+    font-size: $xxl;
+    color: greenyellow;
+}

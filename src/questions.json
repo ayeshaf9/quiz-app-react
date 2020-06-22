@@ -1,0 +1,91 @@
+[
+    {
+        "question": "What was Australia's former name?",
+        "optionA": "Bosnia",
+        "optionB": "New Amsterdam",
+        "optionC": "New Holland",
+        "optionD": "Andorra",
+        "answer": "New Holland"
+    },
+
+    {
+        "question": "Cabbage contains what percentage of water?",
+        "optionA": "32 percent",
+        "optionB": "10 percent",
+        "optionC": "2 percent",
+        "optionD": "91 percent",
+        "answer": "91 percent"
+    },
+
+    {
+        "question": "What was the first name for the hashtag symbol (#)?",
+        "optionA": "Pound sign",
+        "optionB": "Number sign",
+        "optionC": "Zed mark",
+        "optionD": "Octothorp",
+        "answer": "Octothorp"
+    },
+
+    {
+        "question": "What is the best selling musical instrument in the world?",
+        "optionA": "Harmonica",
+        "optionB": "Accordion",
+        "optionC": "Guitar",
+        "optionD": "Drums",
+        "answer": "Harmonica"
+    },
+
+    {
+        "question": "Who lived at 221B, Baker Street, London?",
+        "optionA": "Tony Stark",
+        "optionB": "Morgan Freeman",
+        "optionC": "Sherlock Holmes",
+        "optionD": "Samuel L. Jackson",
+        "answer": "Sherlock Holmes"
+    },
+
+    {
+        "question": "Which of these animals does not sleep?",
+        "optionA": "Lion",
+        "optionB": "Bullfrog",
+        "optionC": "Owl",
+        "optionD": "Zebra",
+        "answer": "Bullfrog"
+    },
+
+    {
+        "question": "All members of which musical group could not read or write music?",
+        "optionA": "AC/DC",
+        "optionB": "The Rolling Stones",
+        "optionC": "Metallica",
+        "optionD": "The Beatles",
+        "answer": "The Beatles"
+    },
+
+    {
+        "question": "Which human body part contains the most water?",
+        "optionA": "Eye",
+        "optionB": "Lung",
+        "optionC": "Tongue",
+        "optionD": "Liver",
+        "answer": "Lung"
+    },
+
+    {
+        "question": "Which fruit contains more sugar than a strawberry?",
+        "optionA": "Lemon",
+        "optionB": "Avocado",
+        "optionC": "Olive",
+        "optionD": "Lime",
+        "answer": "Lemon"
+    },
+
+    {
+        "question": "Which natural food never spoils?",
+        "optionA": "Apple",
+        "optionB": "Honey",
+        "optionC": "Cotton Candy",
+        "optionD": "Ginger",
+        "answer": "Honey"
+    }
+]

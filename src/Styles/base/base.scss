@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+ font-family: $ntr;
+}
+
+.toast-valid{
+    background-color: rgb(133, 221, 0) !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+
+.toast-invalid{
+    background-color: #f44336 !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+
+.disable{
+    background-color: $grey;
+    pointer-events: none;
+    opacity: 0.9;
+}
